@@ -1,0 +1,3 @@
+[submodule "labs/RAG-Practice"]
+	path = labs/RAG-Practice
+	url = git@github.com:asakaicode/RAG-Practice.git
